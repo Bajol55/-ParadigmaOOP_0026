@@ -14,5 +14,11 @@ class mahasiswa {
         cout << nilai << endl;
 
     }
-}]
+};
 int main () {
+    Mahasiswa mhs;
+    mhs.nim = 12345;
+    mhs.nama = "John Doe"
+    mhs.nilai = 85,5;
+    mhs.printData();
+}
