@@ -10,3 +10,5 @@ class mahasiswa {
     
     void prinData() {
         cout << nim << endl;
+        cout << nama << endl;
+   
