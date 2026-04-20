@@ -8,4 +8,5 @@ class mahasiswa {
     string nama;
     float nilai ;
     
-   
+    void prinData() {
+        cout << nim << endl;
